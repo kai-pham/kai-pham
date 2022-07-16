@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Call Me KAI !!!
 
 Currently, I'm Nguyen Du High School for the Gifted, my major is Biology. "A dumbass always learning DNA, Darwin's theory of evolution and so fuqink nerd also love Computer and Code?" - Yeah :hankey:, wut dafuq do you think you are :'> .... Wait wait, kidding .. hold on :bowtie:. OK seriously, I'm also a Bug Hunter, I've many experiences in many Bug Hunting platform, CTF, HackTheBox, Bug Crowd and HackerOne 💻. I love the feelings of stimulating when exploit and take over control the whole system. If you wanna Pentest your system, DM me via LinkedIn. Thanks for spending time 💖
 
