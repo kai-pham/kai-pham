@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm KAI</h1>
 <h3 align="center">Currently, I'm Nguyen Du High School for the Gifted, my major is Biology. "A dumbass always learning DNA, Darwin's theory of evolution and so fuqink nerd also love Computer and Code?" - Yeah :hankey:, wut dafuq do you think you are :'> .... Wait wait, kidding .. hold on :bowtie:. OK seriously, I'm also a Bug Hunter, I've many experiences in many Bug Hunting platform, CTF, HackTheBox, Bug Crowd and HackerOne 💻. I love the feelings of stimulating when exploit and take over control the whole system. If you wanna Pentest your system, DM me via LinkedIn. Thanks for spending time 💖</h3>
 
-- 🔭 I’m currently in: **Nguyen Du High School for the Gifted**
+- 🔭 I’m currently in: **Nguyen Du High School for the Gifted.**
 
-- 🌱 I’m currently learning: **OSCP and CEH**
+- 🌱 I’m learning: **OSCP and CEH.**
 
-- 💬 Ask me about: **#hacking, #security, #anonymous, #hack4good, and #cybersecuritythreats**
+- 💬 Ask me about: **#hacking, #security, #anonymous, #hack4good, and #cybersecuritythreats.**
 
-- 📄 Know about my experiences: I've many experiences in Bug Hunting, CTF, and HackerOne.
+- 📄 Know about my experiences: **I've many experiences in Bug Hunting, CTF, and HackerOne.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
