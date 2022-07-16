@@ -22,7 +22,7 @@
 
 <p><img align="center" src="https://user-images.githubusercontent.com/88875079/179363925-e9a8c32c-91ea-415b-ad6e-bad4e75215fd.gif"  /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kai&show_icons=true&locale=en&layout=compact" alt="kai" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kai&show_icons=true&locale=en&layout=compact" alt="kai" /></p>
 
 
 
