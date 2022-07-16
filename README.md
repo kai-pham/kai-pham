@@ -7,7 +7,7 @@
 
 - 💬 Ask me about: **#hacking, #security, #anonymous, #hack4good, and #cybersecuritythreats**
 
-- 📄 Know about my experiences: [I've many experiences in Bug Hunting, CTF, and HackerOne.](I've many experiences in Bug Hunting, CTF, and HackerOne.)
+- 📄 Know about my experiences: I've many experiences in Bug Hunting, CTF, and HackerOne.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,10 +21,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kai&show_icons=true&locale=en&layout=compact" alt="kai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kai&" alt="kai" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kai&" alt="kai" /></p>
 
-
- ![coding](https://user-images.githubusercontent.com/88875079/179362252-e13fea33-10f8-40fd-bcb9-8335c1a966da.gif)
 
 
 
