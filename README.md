@@ -4,7 +4,7 @@ Currently, I'm Nguyen Du High School for the Gifted, my major is Biology. "A dum
 
 
 
-                              ![coding](https://user-images.githubusercontent.com/88875079/179362252-e13fea33-10f8-40fd-bcb9-8335c1a966da.gif)
+![coding](https://user-images.githubusercontent.com/88875079/179362252-e13fea33-10f8-40fd-bcb9-8335c1a966da.gif)
 
 
 
