@@ -7,7 +7,7 @@
 
 - 💬 Ask me about: **#hacking, #security, #anonymous, #hack4good, and #cybersecuritythreats**
 
-- 📄 Know about my experiences: [I've many experiences in Bug Hunting, CTF, and HackerOne.](I've many experiences in Bug Hunting, CTF, and HackerOne.)
+- 📄 Know about my experiences: **I've many experiences in Bug Hunting, CTF, and HackerOne.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
