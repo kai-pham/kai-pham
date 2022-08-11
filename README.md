@@ -52,16 +52,11 @@
 </p>
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kai&show_icons=true&locale=en&layout=compact" alt="kai" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kai&show_icons=true&locale=en&layout=compact" alt="kai" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kai&show_icons=true&locale=en" alt="kai" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kai&show_icons=true&locale=en" alt="kai" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kai&" alt="kai" /></p>
-
-
-
-
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kai&" alt="kai" />
 
 <!--
 **kai-pham/kai-pham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
